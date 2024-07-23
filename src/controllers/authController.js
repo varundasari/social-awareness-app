@@ -1,6 +1,6 @@
-// JavaScript source code
 const User = require('../models/User');
 
+// Register new user
 exports.register = async (req, res) => {
     const { username, email, password } = req.body;
     try {
@@ -11,6 +11,7 @@ exports.register = async (req, res) => {
     }
 };
 
+// Login user
 exports.login = async (req, res) => {
     const { email, password } = req.body;
     try {
@@ -23,3 +24,4 @@ exports.login = async (req, res) => {
         res.status(400).json({ message: err.message });
     }
 };
+

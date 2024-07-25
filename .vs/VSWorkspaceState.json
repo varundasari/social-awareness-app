@@ -1,12 +1,14 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Backend",
-    "\\Backend\\src",
-    "\\Backend\\src\\controllers",
-    "\\Backend\\src\\modeLs",
-    "\\Backend\\src\\routes"
+    "\\backend",
+    "\\backend\\src",
+    "\\backend\\src\\controllers",
+    "\\backend\\src\\modeLs",
+    "\\backend\\src\\routes",
+    "\\frontend",
+    "\\src"
   ],
-  "SelectedNode": "\\Backend\\.gitignore",
+  "SelectedNode": "\\backend\\src\\controllers\\authController.js",
   "PreviewInSolutionExplorer": false
 }

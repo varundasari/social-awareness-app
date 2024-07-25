@@ -3,43 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\varun\\social-awareness-app\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\varun\\social-awareness-app\\Backend\\.gitignore||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Backend\\.gitignore||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\varun\\social-awareness-app\\backend\\src\\app.js||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\src\\app.js||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\varun\\social-awareness-app\\Backend\\src\\routes\\auth.js||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Backend\\src\\routes\\auth.js||{3B902123-F8A7-4915-9F01-361F908088D0}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\varun\\social-awareness-app\\backend\\src\\controllers\\authController.js||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\src\\controllers\\authController.js||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\varun\\social-awareness-app\\Backend\\package.json||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Backend\\package.json||{3B902123-F8A7-4915-9F01-361F908088D0}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\varun\\social-awareness-app\\backend\\package.json||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\package.json||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\varun\\social-awareness-app\\Backend\\config.js||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Backend\\config.js||{3B902123-F8A7-4915-9F01-361F908088D0}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\varun\\social-awareness-app\\backend\\src\\routes\\auth.js||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\src\\routes\\auth.js||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\varun\\social-awareness-app\\Backend\\.env||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Backend\\.env||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\varun\\social-awareness-app\\backend\\src\\modeLs\\user.js||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\src\\modeLs\\user.js||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\varun\\social-awareness-app\\Backend\\app.js||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Backend\\app.js||{3B902123-F8A7-4915-9F01-361F908088D0}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\varun\\social-awareness-app\\.env||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:.env||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\varun\\social-awareness-app\\Backend\\src\\controllers\\authController.js||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Backend\\src\\controllers\\authController.js||{3B902123-F8A7-4915-9F01-361F908088D0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\varun\\social-awareness-app\\Backend\\src\\modeLs\\user.js||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Backend\\src\\modeLs\\user.js||{3B902123-F8A7-4915-9F01-361F908088D0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\varun\\social-awareness-app\\.vs\\VSWorkspaceState.json||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:.vs\\VSWorkspaceState.json||{3B902123-F8A7-4915-9F01-361F908088D0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\varun\\AppData\\Local\\Microsoft\\VisualStudio\\17.0_5774edbb\\OpenFolder\\VSWorkspaceSettings.json||{3B902123-F8A7-4915-9F01-361F908088D0}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\varun\\social-awareness-app\\backend\\.env||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\.env||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
   "DocumentGroupContainers": [
@@ -49,131 +38,102 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 7,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "user.js",
-              "DocumentMoniker": "C:\\Users\\varun\\social-awareness-app\\Backend\\src\\modeLs\\user.js",
-              "RelativeDocumentMoniker": "Backend\\src\\modeLs\\user.js",
-              "ToolTip": "C:\\Users\\varun\\social-awareness-app\\Backend\\src\\modeLs\\user.js",
-              "RelativeToolTip": "Backend\\src\\modeLs\\user.js",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-07-10T10:55:44.946Z",
-              "IsPinned": true
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "auth.js",
-              "DocumentMoniker": "C:\\Users\\varun\\social-awareness-app\\Backend\\src\\routes\\auth.js",
-              "RelativeDocumentMoniker": "Backend\\src\\routes\\auth.js",
-              "ToolTip": "C:\\Users\\varun\\social-awareness-app\\Backend\\src\\routes\\auth.js",
-              "RelativeToolTip": "Backend\\src\\routes\\auth.js",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-07-10T10:56:57.807Z",
-              "IsPinned": true,
+              "DocumentIndex": 5,
+              "Title": ".env",
+              "DocumentMoniker": "C:\\Users\\varun\\social-awareness-app\\.env",
+              "RelativeDocumentMoniker": ".env",
+              "ToolTip": "C:\\Users\\varun\\social-awareness-app\\.env",
+              "RelativeToolTip": ".env",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-07-25T08:48:50.652Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": ".gitignore",
-              "DocumentMoniker": "C:\\Users\\varun\\social-awareness-app\\Backend\\.gitignore",
-              "RelativeDocumentMoniker": "Backend\\.gitignore",
-              "ToolTip": "C:\\Users\\varun\\social-awareness-app\\Backend\\.gitignore",
-              "RelativeToolTip": "Backend\\.gitignore",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "DocumentIndex": 6,
+              "Title": ".env",
+              "DocumentMoniker": "C:\\Users\\varun\\social-awareness-app\\backend\\.env",
+              "RelativeDocumentMoniker": "backend\\.env",
+              "ToolTip": "C:\\Users\\varun\\social-awareness-app\\backend\\.env",
+              "RelativeToolTip": "backend\\.env",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-07-23T06:17:53.444Z",
+              "WhenOpened": "2024-07-25T08:31:31.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "auth.js",
+              "DocumentMoniker": "C:\\Users\\varun\\social-awareness-app\\backend\\src\\routes\\auth.js",
+              "RelativeDocumentMoniker": "backend\\src\\routes\\auth.js",
+              "ToolTip": "C:\\Users\\varun\\social-awareness-app\\backend\\src\\routes\\auth.js",
+              "RelativeToolTip": "backend\\src\\routes\\auth.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-07-23T11:13:07.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "user.js",
+              "DocumentMoniker": "C:\\Users\\varun\\social-awareness-app\\backend\\src\\modeLs\\user.js",
+              "RelativeDocumentMoniker": "backend\\src\\modeLs\\user.js",
+              "ToolTip": "C:\\Users\\varun\\social-awareness-app\\backend\\src\\modeLs\\user.js",
+              "RelativeToolTip": "backend\\src\\modeLs\\user.js",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAACUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-07-23T11:12:28.943Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "package.json",
-              "DocumentMoniker": "C:\\Users\\varun\\social-awareness-app\\Backend\\package.json",
-              "RelativeDocumentMoniker": "Backend\\package.json",
-              "ToolTip": "C:\\Users\\varun\\social-awareness-app\\Backend\\package.json",
-              "RelativeToolTip": "Backend\\package.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "DocumentMoniker": "C:\\Users\\varun\\social-awareness-app\\backend\\package.json",
+              "RelativeDocumentMoniker": "backend\\package.json",
+              "ToolTip": "C:\\Users\\varun\\social-awareness-app\\backend\\package.json",
+              "RelativeToolTip": "backend\\package.json",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAuwAoAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-07-10T11:02:57.166Z"
+              "WhenOpened": "2024-07-23T11:10:36.779Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": ".env",
-              "DocumentMoniker": "C:\\Users\\varun\\social-awareness-app\\Backend\\.env",
-              "RelativeDocumentMoniker": "Backend\\.env",
-              "ToolTip": "C:\\Users\\varun\\social-awareness-app\\Backend\\.env",
-              "RelativeToolTip": "Backend\\.env",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-07-10T11:00:58.744Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "config.js",
-              "DocumentMoniker": "C:\\Users\\varun\\social-awareness-app\\Backend\\config.js",
-              "RelativeDocumentMoniker": "Backend\\config.js",
-              "ToolTip": "C:\\Users\\varun\\social-awareness-app\\Backend\\config.js",
-              "RelativeToolTip": "Backend\\config.js",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-07-10T10:59:27.891Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 1,
               "Title": "authController.js",
-              "DocumentMoniker": "C:\\Users\\varun\\social-awareness-app\\Backend\\src\\controllers\\authController.js",
-              "RelativeDocumentMoniker": "Backend\\src\\controllers\\authController.js",
-              "ToolTip": "C:\\Users\\varun\\social-awareness-app\\Backend\\src\\controllers\\authController.js",
-              "RelativeToolTip": "Backend\\src\\controllers\\authController.js",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAwBkAAAAAAAAA",
+              "DocumentMoniker": "C:\\Users\\varun\\social-awareness-app\\backend\\src\\controllers\\authController.js",
+              "RelativeDocumentMoniker": "backend\\src\\controllers\\authController.js",
+              "ToolTip": "C:\\Users\\varun\\social-awareness-app\\backend\\src\\controllers\\authController.js",
+              "RelativeToolTip": "backend\\src\\controllers\\authController.js",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAYwBoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-07-10T10:52:26.587Z"
+              "WhenOpened": "2024-07-23T11:09:52.456Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "app.js",
-              "DocumentMoniker": "C:\\Users\\varun\\social-awareness-app\\Backend\\app.js",
-              "RelativeDocumentMoniker": "Backend\\app.js",
-              "ToolTip": "C:\\Users\\varun\\social-awareness-app\\Backend\\app.js",
-              "RelativeToolTip": "Backend\\app.js",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "DocumentMoniker": "C:\\Users\\varun\\social-awareness-app\\backend\\src\\app.js",
+              "RelativeDocumentMoniker": "backend\\src\\app.js",
+              "ToolTip": "C:\\Users\\varun\\social-awareness-app\\backend\\src\\app.js",
+              "RelativeToolTip": "backend\\src\\app.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-07-10T10:45:24.635Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "VSWorkspaceState.json",
-              "DocumentMoniker": "C:\\Users\\varun\\social-awareness-app\\.vs\\VSWorkspaceState.json",
-              "RelativeDocumentMoniker": ".vs\\VSWorkspaceState.json",
-              "ToolTip": "C:\\Users\\varun\\social-awareness-app\\.vs\\VSWorkspaceState.json",
-              "RelativeToolTip": ".vs\\VSWorkspaceState.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAHAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-07-08T09:20:43.068Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "VSWorkspaceSettings.json",
-              "DocumentMoniker": "C:\\Users\\varun\\AppData\\Local\\Microsoft\\VisualStudio\\17.0_5774edbb\\OpenFolder\\VSWorkspaceSettings.json",
-              "RelativeDocumentMoniker": "..\\AppData\\Local\\Microsoft\\VisualStudio\\17.0_5774edbb\\OpenFolder\\VSWorkspaceSettings.json",
-              "ToolTip": "C:\\Users\\varun\\AppData\\Local\\Microsoft\\VisualStudio\\17.0_5774edbb\\OpenFolder\\VSWorkspaceSettings.json",
-              "RelativeToolTip": "..\\AppData\\Local\\Microsoft\\VisualStudio\\17.0_5774edbb\\OpenFolder\\VSWorkspaceSettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-07-08T09:18:18.671Z"
+              "WhenOpened": "2024-07-10T10:45:24.635Z",
+              "EditorCaption": ""
             }
           ]
         }

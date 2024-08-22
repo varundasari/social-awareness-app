@@ -84,6 +84,70 @@ main {
 .section-content {
     margin-bottom: 30px;
 }
+ .campaign-container {
+            display: flex;
+            flex-direction: row; /* Ensures that items are laid out in a single row */
+            justify-content: space-between; /* Aligns the items on the left and right ends of the container */
+            align-items: center; /* Vertically aligns the items */
+            width: 100%; /* Makes the container take the full width of the page */
+			background-color: white;
+			padding: 5px;
+        }
+
+        .campaign-container h1, .campaign-container h2 {
+            margin: 0; /* Removes any default margin */
+        }
+
+        .btn-admin-campaign, .btn-post-campaign {
+            text-decoration: none; /* Removes underline from links */
+            color: green; /* Text color */
+            padding: 10px 20px;
+            border: 1px solid #000; /* Adds border to buttons */
+            border-radius: 5px; /* Rounded corners */
+            background-color: #e0e0e0; /* Background color for the buttons */
+        }
+
+        .btn-admin-campaign:hover, .btn-post-campaign:hover {
+            background-color: #ccc; /* Changes background on hover */
+        }
+.campaign-item {
+    background: #f9f9f9;
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.admin-controls {
+    margin-top: 15px;
+}
+
+.btn-approve {
+    background: #28a745;
+    color: #fff;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-right: 10px;
+}
+
+.btn-reject {
+    background: #dc3545;
+    color: #fff;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.btn-approve:hover {
+    background: #218838;
+}
+
+.btn-reject:hover {
+    background: #c82333;
+}
 
 .campaigns {
     display: grid;
